@@ -30,4 +30,4 @@ npm test
 ___
 *original hasp repo [link](https://github.com/djanowski/hasp)*
 
-*for gulp plugin see [grunt-hasp-css](https://www.npmjs.com/package/gulp-hasp-css)*
+*for gulp plugin see [gulp-hasp-css](https://www.npmjs.com/package/gulp-hasp-css)*
