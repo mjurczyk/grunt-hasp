@@ -1,6 +1,6 @@
 {
   "name": "grunt-hasp-css",
-  "version": "1.0.1a",
+  "version": "1.0.1b",
   "description": "hasp CSS precompiler (Grunt task)",
   "main": "tasks/hasp.js",
   "scripts": {
