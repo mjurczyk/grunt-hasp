@@ -1,0 +1,15 @@
+{
+  "name": "grunt-hasp-css-test",
+  "version": "1.0.0",
+  "description": "hasp css testing env",
+  "main": "index.js",
+  "scripts": {
+    "start": "grunt"
+  },
+  "author": "mjurczyk",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13"
+  }
+}

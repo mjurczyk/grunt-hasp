@@ -1,0 +1,17 @@
+breakpoint(TABLET, min-device-width: 768px)
+
+selector(.site-header) {
+  height: 1rem;
+
+  on(TABLET)
+    height: 3rem;
+  end
+}
+
+selector(.main-content) {
+  padding: 0;
+
+  on(TABLET)
+    padding: 5rem;
+  end
+}

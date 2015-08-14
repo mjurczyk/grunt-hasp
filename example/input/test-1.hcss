@@ -1,0 +1,5 @@
+set(PRIMARY_COLOR, `#f00')
+
+body {
+  background: PRIMARY_COLOR;
+}

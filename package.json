@@ -1,0 +1,26 @@
+{
+  "name": "grunt-hasp-css",
+  "version": "1.0.0",
+  "description": "hasp CSS precompiler (Grunt task)",
+  "main": "tasks/hasp.js",
+  "scripts": {
+    "postinstall": "node ./lib/getHasp.js",
+    "test": "cd example && npm start"
+  },
+  "keywords": [
+    "gruntplugin",
+    "hasp",
+    "css"
+  ],
+  "author": "mjurczyk",
+  "license": "MIT",
+  "files": [
+    "tasks",
+    "lib"
+  ],
+  "devDependencies": {
+    "download": "^4.2.0",
+    "gulp-util": "^3.0.6",
+    "rename": "^1.0.3"
+  }
+}
